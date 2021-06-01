@@ -1,0 +1,133 @@
+{
+  "main": {
+    "name": "Danish Siddiqui",
+    "occupation": "",
+    "description": "I make web applications with React, Next, and Node",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Danish! I am a passionate Web Application Developer. I have been developing web apps with my school's colleagues for 2 years now. I just graduated from San Francisco State University with a bachelors in Computer Science. I try to learn something new each day and always puts user expectations as my first priority. I also enjoy travelling with my family and friends, and I regularly workout to stay in good shape. I am looking forward to professionally work in Web Development field as a full-stack or a front-end developer.",
+    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
+    "email": "danishsiddiqui500@gmail.com",
+    "phone": "+01 (628) - 224 - 5070",
+    "address": {
+      "street": "910 Geary Street",
+      "city": "San Francisco",
+      "state": "California",
+      "zip": "94109"
+    },
+    "website": "",
+    "resumedownload": "https://docs.google.com/document/d/1HIWL-tFMnFPe-u9SbfBWZF_8_0n2STmqsRT61DJRCPc/edit",
+    "social": [
+      
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/danish.siddiqui.73/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/danish-siddiqui-73b531179/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/halal_larka/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/danish061296",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "San Francisco State University",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "May 2021",
+        "description": "Graduated with Summa Cum Laude"
+      }
+    ],
+    "work": [
+      {
+        "company": "San Francisco State University",
+        "title": "Instructional Assistant for Computer Science & Math",
+        "years": "February 2019 - May 2021",
+        "description": "Tutoring lower and upper division students, helping them with understanding computer science and calculus courses by reviewing their classwork."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJS",
+        "level": "90%"
+      },
+      {
+        "name": "NextJS",
+        "level": "60%"
+      },
+      {
+        "name": "Node & Express",
+        "level": "80%"
+      },
+      {
+        "name": "Javascript",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "Web Development",
+        "level": "80%"
+      },
+      {
+        "name": "Java",
+        "level": "70%"
+      }
+      
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "iShareBooks",
+        "category": "",
+        "image": "isharebooks.png",
+        "url": "http://35.215.84.127:3000"
+      },
+      {
+        "title": "SodaChatRoom",
+        "category": "",
+        "image": "sodachat.png",
+        "url": "https://github.com/danish061296/sodaChat"
+      },
+      {
+        "title": "hulu clone",
+        "category": "",
+        "image": "huluclone.png",
+        "url": "https://hulu-clone-ebon.vercel.app/"
+      },
+      {
+        "title": "amazon clone",
+        "category": "",
+        "image": "amazonclone.png",
+        "url": "https://app-b8fce.web.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "",
+        "user": ""
+      },
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
