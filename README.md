@@ -2,7 +2,7 @@
 
 ![PAPA React JS Portfolio Starter Pack](resume-screenshot.jpg?raw=true "Danish Resume Portfolio ")
 
-### <a href="https://resume-portfolio-starter-pack.herokuapp.com">LIVE DEMO</a>
+### <a href="https://objective-ramanujan-d73606.netlify.app/">LIVE DEMO</a>
 
 ## Resume Starter Pack Description
 
