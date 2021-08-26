@@ -23,7 +23,7 @@ const Footer = ({ data }) => {
             <li>
               Made by{' '}
               <a title="PAPA" href="#">
-                Danish ( Ref: PAPA)
+                Danish ( Ref: PAPAREACT)
               </a>
             </li>
           </ul>

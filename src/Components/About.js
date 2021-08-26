@@ -47,8 +47,16 @@ const About = ({ data }) => {
             </div>
             <div className="columns download">
               <p>
-                <a href={resumeDownload} target="_blank" className="button">
-                  <i className="fa fa-download"></i>Download Resume
+                {/* href={resumeDownload} */}
+                <a
+                  href="https://docs.google.com/document/d/1HIWL-tFMnFPe-u9SbfBWZF_8_0n2STmqsRT61DJRCPc/edit"
+                  download
+                  // target="_blank"
+                  className="button"
+                >
+                  View Current Resume
+                  {/* <i className="fa fa-dow
+                  nload"></i>Current Resume */}
                 </a>
               </p>
             </div>

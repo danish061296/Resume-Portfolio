@@ -17,16 +17,15 @@
     "website": "",
     "resumedownload": "https://docs.google.com/document/d/1HIWL-tFMnFPe-u9SbfBWZF_8_0n2STmqsRT61DJRCPc/edit",
     "social": [
-      
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/danish.siddiqui.73/",
-        "className": "fa fa-facebook"
-      },
       {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/danish-siddiqui-73b531179/",
         "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/danish061296",
+        "className": "fa fa-github"
       },
       {
         "name": "instagram",
@@ -34,10 +33,12 @@
         "className": "fa fa-instagram"
       },
       {
-        "name": "github",
-        "url": "https://github.com/danish061296",
-        "className": "fa fa-github"
+        "name": "facebook",
+        "url": "https://www.facebook.com/danish.siddiqui.73/",
+        "className": "fa fa-facebook"
       }
+      
+      
     ]
   },
   "resume": {
@@ -65,7 +66,7 @@
       },
       {
         "name": "NextJS",
-        "level": "60%"
+        "level": "80%"
       },
       {
         "name": "Node & Express",
@@ -93,28 +94,29 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Place Hub",
+        "category": "",
+        "image": "placehub.png",
+        "url": "https://place-hub.netlify.app/"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "",
+        "image": "airbnb.png",
+        "url": "https://airbnb-clone-r72l8g0eb-danish061296.vercel.app/"
+      },
+      {
         "title": "iShareBooks",
         "category": "",
         "image": "isharebooks.png",
         "url": "http://35.215.84.127:3000"
       },
+      
       {
-        "title": "SodaChatRoom",
+        "title": "Quizzeria",
         "category": "",
-        "image": "sodachat.png",
-        "url": "https://github.com/danish061296/sodaChat"
-      },
-      {
-        "title": "hulu clone",
-        "category": "",
-        "image": "huluclone.png",
-        "url": "https://hulu-clone-ebon.vercel.app/"
-      },
-      {
-        "title": "amazon clone",
-        "category": "",
-        "image": "amazonclone.png",
-        "url": "https://app-b8fce.web.app/"
+        "image": "quizzeria.png",
+        "url": "https://react-quizzeria.netlify.app/"
       }
     ]
   },
