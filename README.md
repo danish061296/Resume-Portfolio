@@ -1,11 +1,12 @@
-# PAPA React JS Resume Starter Pack and Digital Portfolio
+# Danish React JS Resume and Digital Portfolio
 
-![PAPA React JS Portfolio Starter Pack](resume-screenshot.jpg?raw=true "PAPA React JS Portfolio Stater Pack ")
+![PAPA React JS Portfolio Starter Pack](resume-screenshot.jpg?raw=true "Danish Resume Portfolio ")
 
-### <a href="https://resume-portfolio-starter-pack.herokuapp.com">LIVE DEMO</a>
+### <a href="https://objective-ramanujan-d73606.netlify.app/">LIVE DEMO</a>
 
 ## Resume Starter Pack Description
 
+Inspired by Sonny Sangha (PAPA React).
 This portfolio starter pack is made using React. The data on the portfolio is directly linked to a JSON file. Any changes to the portfolio can be made in the JSON file. The changes will then be reflected on to the portfolio. This allows you to customize your own personal portfolio that can be used for applying to jobs or other personal uses.
 
 ## 1. Make sure you have NODE installed!
@@ -16,7 +17,7 @@ Firstly, you will need to download the latest version of Node by <a href="https:
 
 Next, you will need to run the following command in the Terminal to clone the repo onto your machine.
 
-```git clone https://github.com/sonnysangha/Resume-Portfolio-Starter-pack.git```
+```git clone https://github.com/danish061296/Resume-Portfolio.git```
 
 ## 3. Install Dependancies
 
@@ -27,10 +28,6 @@ Next, you need to install all the dependancies using:
 Once this is done, you can start the app with:
 
 ```npm start```
-
-## 4. Fill in your personal info
-
-To populate the website with all of your own data, open the public/resumeData.json file and simply replace the data in there with your own. Images for the porfolio section are to be put in the public/images/portfolio folder.
 
 ## 5. (OPTIONAL) Replacing images and/or fonts
 
