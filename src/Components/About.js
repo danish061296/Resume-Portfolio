@@ -50,8 +50,7 @@ const About = ({ data }) => {
                 {/* href={resumeDownload} */}
                 <a
                   href="https://docs.google.com/document/d/1HIWL-tFMnFPe-u9SbfBWZF_8_0n2STmqsRT61DJRCPc/edit"
-                  download
-                  // target="_blank"
+                  target="_blank"
                   className="button"
                 >
                   View Current Resume
